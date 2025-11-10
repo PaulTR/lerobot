@@ -1,3 +1,9 @@
+Paul notes:
+
+On mac, location for config file. I've saved it to root here.
+/Users/user/.cache/huggingface/lerobot/calibration/robots/so101_follower/color_follower_arm.json
+/Users/user/.cache/huggingface/lerobot/calibration/robots/so101_follower/color_leader_arm.json
+
 <p align="center">
   <img alt="LeRobot, Hugging Face Robotics Library" src="https://raw.githubusercontent.com/huggingface/lerobot/main/media/lerobot-logo-thumbnail.png" width="100%">
   <br/>
